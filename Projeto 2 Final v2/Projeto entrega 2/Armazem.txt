@@ -1,0 +1,42 @@
+cabbage;fruit;Get Fresh Distributors Inc;0.397223;0;5
+borage;leaf;California Green Distributor, Inc;0.292615;0;5
+pumpkin;flower;Ensenada Produce Distributors;0.416101;0;4
+celeriac;fruit;Get Fresh Distributors Inc;0.491925;0;1
+bok choy;fruit;Mountain Produce;0.651630;0;2
+asparagus;flower;Nacho's Wholesale Produce;0.211334;0;4
+broad bean;fruit;West Central Produce;0.351428;0;1
+sweet potato;seed vegetables;California Green Distributor, Inc;0.661737;0;2
+snake gourd;flower;Alliance Produce Distributors;0.384644;0;1
+lambs lettuce;flower;Get Fresh Distributors Inc;0.540961;0;1
+shallot;fruit;A and F Distributing Corp.;0.760138;0;5
+lima bean;seed vegetables;Alliance Produce Distributors;0.694641;0;3
+burdock;fruit;California Green Distributor, Inc;0.269873;0;2
+okra;fruit;Westlake produce company;0.332330;0;5
+cowpea;flower;Mountain Produce;0.682080;0;1
+cauliflower;fruit;Mountain Produce;0.216351;0;3
+zucchini;leaf;DLJ Produce Distributors;0.743860;0;3
+lentil;leaf;Produce Services of Los Angeles;0.400739;0;2
+musk cucumber;fruit;M&M Farms Inc.;0.760541;0;3
+Tossa jute;seed vegetables;Field Fresh Distributors;0.752905;0;3
+common bean;fruit;Primo Growers And Distributors;0.559985;0;1
+squash;flower;LA Produce Distributors;0.219775;0;4
+jackfruit;leaf;Alliance Produce Distributors;0.738293;0;2
+soybean;seed vegetables;Produce Services of Los Angeles;0.599023;0;5
+peanut;leaf;M&M Farms Inc.;0.478888;0;1
+garlic;flower;West Central Produce;0.211719;0;3
+jackfruit;seed vegetables;Field Fresh Distributors;0.353699;0;2
+watercress;fruit;A and F Distributing Corp.;0.294135;0;4
+bell pepper;leaf;Mountain Produce;0.321490;0;4
+onion;seed vegetables;DLJ Produce Distributors;0.444720;0;5
+radish;leaf;Mountain Produce;0.686420;0;3
+avocado;seed vegetables;Alliance Produce Distributors;0.494104;0;4
+lotus;leaf;Primo Growers And Distributors;0.327130;0;3
+burdock;fruit;West Central Produce;0.483923;0;5
+rutabaga;fruit;DLJ Produce Distributors;0.466235;0;4
+salsify;flower;Reyes Wholesale Produce;0.231824;0;2
+amaranth;flower;Field Fresh Distributors;0.730109;0;3
+cardoon;leaf;DLJ Produce Distributors;0.277765;0;4
+broccoli;fruit;Primo Growers And Distributors;0.637494;0;5
+radish;seed vegetables;M&M Farms Inc.;0.714764;0;2
+cassava;leaf;M&M Farms Inc.;0.236456;0;3
+Jerusalem artichoke;fruit;M&M Farms Inc.;0.501190;0;1

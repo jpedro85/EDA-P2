@@ -1,0 +1,33 @@
+A
+Chinese water chestnut ; A and F Distributing Corp. ; tuberous vegetables ; 0.708264 ; 0 ; 2
+caper ; The SF Market (San Francisco Wholesale Produce Market) ; tuberous vegetables ; 0.790973 ; 4 ; 1
+ti ; S and L Wholesale Produce ; tuberous vegetables ; 0.722784 ; 0 ; 1
+zucchini ; Westlake produce company ; tuberous vegetables ; 0.775482 ; 3 ; 2
+
+B
+bamboo ; West Central Produce ; stem vegetables ; 0.767023 ; 0 ; 3
+caper ; Nacho's Wholesale Produce ; stem vegetables ; 0.429248 ; 2 ; 3
+
+C
+celery ; Field Fresh Distributors ; bulb ; 0.437085 ; 0 ; 3
+beet ; A and F Distributing Corp. ; bulb ; 0.399384 ; 0 ; 4
+pumpkin ; West Central Produce ; bulb ; 0.602301 ; 1 ; 4
+lambs lettuce ; Field Fresh Distributors ; bulb ; 0.727124 ; 1 ; 5
+
+D
+
+E
+lemongrass ; California Green Distributor, Inc ; bud vegetables ; 0.240649 ; 1 ; 5
+beet ; Ensenada Produce Distributors ; bud vegetables ; 0.434998 ; 0 ; 1
+lambs lettuce ; Get Fresh Distributors Inc ; bud vegetables ; 0.739465 ; 1 ; 3
+tomato ; West Central Produce ; bud vegetables ; 0.401434 ; 0 ; 3
+ti ; Primo Growers And Distributors ; bud vegetables ; 0.593475 ; 3 ; 2
+
+F
+chive ; Westlake produce company ; root ; 0.242389 ; 1 ; 2
+celeriac ; Produce Services of Los Angeles ; root ; 0.692206 ; 1 ; 2
+jicama ; M&M Farms Inc. ; root ; 0.317993 ; 2 ; 5
+radish ; Get Fresh Distributors Inc ; root ; 0.414893 ; 0 ; 2
+
+G
+

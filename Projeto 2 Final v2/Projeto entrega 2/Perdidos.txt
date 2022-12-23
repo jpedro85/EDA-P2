@@ -1,0 +1,8 @@
+mustard;tuberous vegetables;The SF Market (San Francisco Wholesale Produce Market);0.279651;1;5
+sweet potato;root;Ensenada Produce Distributors;0.487622;0;1
+leek;tuberous vegetables;Field Fresh Distributors;0.272968;1;2
+sorrel;root;M&M Farms Inc.;0.432452;0;1
+burdock;root;California Green Distributor, Inc;0.209686;0;1
+fennel;stem vegetables;The SF Market (San Francisco Wholesale Produce Market);0.495587;1;5
+sorrel;stem vegetables;California Green Distributor, Inc;0.495331;0;4
+collard;tuberous vegetables;California Green Distributor, Inc;0.528729;1;4

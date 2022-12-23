@@ -1,0 +1,31 @@
+7
+A ;  ; 8 ; flower ; 0 ; 0
+
+B ;  ; 3 ; stem vegetables ; 0 ; 2
+borage;stem vegetables;California Green Distributor, Inc;0.656079;6;4
+beet;stem vegetables;Reyes Wholesale Produce;0.687079;2;1
+
+C ;  ; 4 ; bulb ; 0 ; 3
+Napa cabbage;bulb;West Central Produce;0.511645;2;5
+pepper;bulb;Alliance Produce Distributors;0.326178;0;1
+lima bean;bulb;Field Fresh Distributors;0.227667;0;1
+
+D ; A ; 5 ; bulb ; 0 ; 0
+
+E ; B ; 8 ; bud vegetables ; 0 ; 3
+lambs quarters;bud vegetables;Alliance Produce Distributors;0.681201;3;5
+taro;bud vegetables;Westlake produce company;0.613434;3;1
+leek;bud vegetables;West Central Produce;0.463507;0;5
+
+F ; hhgfh ; 4 ; root ; 0 ; 4
+watercress;root;California Green Distributor, Inc;0.280676;4;5
+tomato;root;West Central Produce;0.617883;1;3
+pepper;root;S and L Wholesale Produce;0.497986;0;5
+celeriac;root;DLJ Produce Distributors;0.539221;0;4
+
+G ;  ; 7 ; stem vegetables ; 0 ; 4
+loofah;stem vegetables;A and F Distributing Corp.;0.280438;1;3
+borage;stem vegetables;Ensenada Produce Distributors;0.570258;1;2
+avocado;stem vegetables;California Green Distributor, Inc;0.640131;0;1
+kale;stem vegetables;S and L Wholesale Produce;0.360565;0;4
+

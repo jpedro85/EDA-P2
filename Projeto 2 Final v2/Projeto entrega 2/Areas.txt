@@ -1,0 +1,10 @@
+Alfaces
+flower
+bud vegetables
+fruit
+seed vegetables
+leaf
+stem vegetables
+root
+bulb
+tuberous vegetables
